@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Speech app</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="all.min.css" />
+  </head>
+  <body>
+    <div class="box">
+      <div class="inner">
+        <!-- the head section -->
+        <div class="head">
+          <!-- speed value -->
+          <div class="speedval"><i class="fas fa-robot"></i></div>
+          <!-- input value -->
+          <div class="toneval"><i class="fas fa-robot"></i></div>
+          <!-- line1 -->
+          <div class="line1"></div>
+          <!-- the logo -->
+          <div class="logo">
+            <i class="fas fa-music fa-6x"></i>
+          </div>
+          <!-- line 2 -->
+          <div class="line2"></div>
+        </div>
+
+        <!-- the type box -->
+        <div class="input">
+          <textarea
+            name=""
+            id=""
+            cols="30"
+            rows="15"
+            placeholder="type anything and i will read it for you"
+          ></textarea>
+        </div>
+        <!-- the speed -->
+        <div class="speed">
+          <input
+            type="range"
+            name=""
+            id="speed"
+            min="0.5"
+            max="2"
+            step="0.05"
+            value="1"
+          />
+          <span id="speedval">Speed 1</span>
+        </div>
+        <!-- the voice tone -->
+        <div class="tone">
+          <input
+            type="range"
+            name=""
+            id="pitch"
+            min="0.5"
+            max="2"
+            step="0.05"
+            value="1"
+          />
+          <span id="pitchval">Pitch 1</span>
+        </div>
+        <!-- the language selection section -->
+        <div class="lang">
+          <select name="" id="select"></select>
+        </div>
+        <!-- submit section -->
+        <div class="submit">
+          <input type="submit" value="Speak" />
+        </div>
+      </div>
+    </div>
+    <script src="index.js"></script>
+    <script src="all.min.js"></script>
+  </body>
+</html>

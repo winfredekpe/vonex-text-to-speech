@@ -1,0 +1,73 @@
+[0915/103533.498:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0915/103559.353:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0916/105843.413:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/105843.414:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/110316.757:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0916/110326.812:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0916/110843.419:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/110843.419:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/110843.420:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/110843.420:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/111122.198:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0916/111122.231:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0916/111343.416:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/111343.416:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/112843.418:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/112843.419:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/114343.420:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/114343.420:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/115843.422:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/115843.423:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/121343.424:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/121343.424:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/122843.508:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/122843.508:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/124343.511:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/124343.511:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/125843.512:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/125843.512:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/131343.512:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/131343.513:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/132843.515:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/132843.515:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/134343.516:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/134343.516:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/135843.518:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/135843.518:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/141343.519:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/141343.520:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/142843.521:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/142843.522:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/144343.523:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/144343.523:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/145844.080:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/145844.292:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/151344.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/151344.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/152844.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/152844.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/154344.304:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/154344.305:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/155844.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/155844.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/161344.307:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/161344.308:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/162844.309:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/162844.309:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/164344.328:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/164344.328:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/165844.340:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/165844.340:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/235406.723:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/235406.779:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/050228.434:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/050228.436:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/051431.177:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/051431.197:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/065546.154:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/065546.155:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1005/165919.982:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1005/165920.007:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1005/165920.007:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1005/165920.007:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1005/165920.007:ERROR:crash_report_database_win.cc(469)] failed to stat report
